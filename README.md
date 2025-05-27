@@ -48,6 +48,14 @@
 
 ---
 
+## How to use 
+
+-Pull all files and run front.py and follow the commands.
+
+# Only Instagram option will be working
+
+---
+
 ##  Acknowledgements
 
 This project was a huge learning experience, blending **machine learning**, **web scraping**, and **UX/UI design** to solve real-world problems in cyber forensics.
